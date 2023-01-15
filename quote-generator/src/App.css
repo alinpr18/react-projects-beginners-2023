@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.container-quote {
+  background-color: white;
+  border: 2px solid gray;
+  margin-block-start: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 10px
+}

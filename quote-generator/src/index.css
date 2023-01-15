@@ -1,0 +1,7 @@
+body {
+  font-family: system-ui;
+  margin: 0;
+  background-color: goldenrod;
+  max-inline-size: 500px;
+  margin: auto;
+}
