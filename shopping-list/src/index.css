@@ -1,0 +1,15 @@
+body {
+  font-family: system-ui;
+  margin: 0;
+  background-color: pink;
+  max-inline-size: 400px;
+  margin: auto;
+}
+
+.shopping-title {
+  text-align: center;
+}
+
+.shopping-buttons {
+  text-align: center;
+}
