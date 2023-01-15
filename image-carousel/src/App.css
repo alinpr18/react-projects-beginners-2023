@@ -1,0 +1,27 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
+  border-radius: 4px
+}
+
+.left-arrow,
+.right-arrow {
+  cursor: pointer;
+}
+
+.left-arrow:hover,
+.right-arrow:hover {
+  background-color: rgba(0, 0, 0, 0.288);
+  border-radius: 50%;
+}

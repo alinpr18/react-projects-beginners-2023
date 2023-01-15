@@ -1,0 +1,8 @@
+body {
+  font-family: system-ui;
+  background: rgb(43, 43, 43);
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
