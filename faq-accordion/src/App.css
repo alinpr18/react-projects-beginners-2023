@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+.container-accordion {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  gap: 15px;
+  border-radius: 8px;
+  background-color: blue;
+  inline-size: 640px;
+  margin: auto;
+}
