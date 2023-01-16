@@ -1,0 +1,11 @@
+.video-player-container {
+  display: flex;
+  justify-content: center;
+}
+
+.video-player-container video {
+  border-radius: 4px;
+  margin: 30px;
+  inline-size: 500px;
+  max-inline-size: 80%;
+}
