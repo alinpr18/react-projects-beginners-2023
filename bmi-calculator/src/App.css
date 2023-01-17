@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-block-start: 50px;
+  background-color: white;
+}
+
+.project-title {
+  text-align: center;
+  background-color: #1b1096;
+  color: white;
+  margin: 0;
+  padding: 20px 10px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  padding-block: 10px;
+  gap: 10px;
+}
+
+.input-radio {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: auto;
+  gap: 5px;
+}
+
+.input-radio input {
+  width: 100%;
+}
+
+.bmi-container {
+  padding-block-end: 20px;
+}
+
+.bmi-title {
+  text-align: center;
+}
+
+.bmi-result {
+  background-color: #1b1096;
+  border-radius: 99999px;
+  color: white;
+  display: flex;
+  margin: auto;
+  width: fit-content;
+  padding: 10px 25px;
+}
